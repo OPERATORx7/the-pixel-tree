@@ -1,2 +1,2 @@
-# the-pixel-tree
-Pixel Tree in C
+# a-pine-tree-in-c
+a pine tree in c
