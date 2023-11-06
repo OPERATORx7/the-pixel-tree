@@ -1,3 +1,13 @@
+/*  
+author: @operatorx7
+project name: a pin tree in c
+original release date: 16/10/2019
+
+project description:
+The main program ask you to type a digit number. 
+Once a digit number is received by the signed decimal integer format specifier, "%d", a for loop function display 'a pin tre' according to N number, which is our "%d".
+*/
+
 #include<stdio.h>
 #include<stdlib.h>
 
